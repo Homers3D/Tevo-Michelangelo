@@ -32,3 +32,19 @@ Welcome to the Github of the TEVO Michelangelo 3D printer - you find here the la
 
 ## Update TEVO Michelangelo Firmware - Flash Motherboard
 
+
+## Testing
+
+
+## Additional links
+
+- [TEVO Michelangelo Infos](https://www.tevo.cn/products/3d-printers/tevo-michelangelo/ "TEVO Michelangelo Infos")
+- [TEVO Michelangelo FAQ](https://help.tevo.cn/faq-categories/tevo-michelangelo/ "TEVO Michelangelo FAQ")
+
+- [TEVO Website](https://www.tevo.cn/ "Visit TEVO Website")
+- [TEVO Support](https://help.tevo.cn/ "Visit TEVO Support Suite")
+
+- [TEVO Official Webshop](https://tevo3dprinterstore.com "Visit TEVO Official Webshop")
+- [TEVO Aliexpress Shop](https://tevo.aliexpress.com/store/2010004 "Visit TEVO Aliexpress Shop")
+- [TEVO Amazon Store](https://www.amazon.com/stores/node/9447801011 " Visit TEVO Amazon Store")
+
